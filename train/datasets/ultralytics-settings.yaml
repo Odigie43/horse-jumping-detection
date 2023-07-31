@@ -1,0 +1,11 @@
+datasets_dir: datasets
+weights_dir: weights
+runs_dir: runs
+uuid: e4735e0be13121ad2e34fdb72a1b487efc20d0b544194d28f899edfc7ad138ce
+sync: true
+api_key: ''
+settings_version: 0.0.3
+
+
+# DELETE FROM HERE DOWN AFTER FOLLOWING THE INSTRUCTION
+SAVE THIS FILE IN : C:\Users\[USERNAME]\AppData\Roaming\Ultralytics\settings.yaml

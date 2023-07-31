@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=yolov8s.pt data='D:\PROJECTS\PYTHON\\ROBOFLOW\\yolov8-streamlit-detection-tracking\\datasets\\horse-race\\data.yaml' epochs=100 imgsz=640 name=yolov8n_v8_horse_race

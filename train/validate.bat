@@ -1,0 +1,1 @@
+yolo task=detect mode=val model={HOME}/runs/detect/train/weights/best.pt data='D:\PROJECTS\PYTHON\\ROBOFLOW\\yolov8-streamlit-detection-tracking\\datasets\\horse-race\\data.yaml'

@@ -1,0 +1,1 @@
+yolo task=detect mode=predict model={HOME}/runs/detect/train/weights/best.pt conf=0.25 source='D:\PROJECTS\PYTHON\\ROBOFLOW\\yolov8-streamlit-detection-tracking\\datasets\\horse-race\\test\\images'

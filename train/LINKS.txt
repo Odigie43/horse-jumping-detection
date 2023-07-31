@@ -1,0 +1,54 @@
+Workout Recognition using CNN and Deep Learning
+https://debuggercafe.com/workout-recognition-using-cnn/
+
+hese include the preparation of the model, the data processing and augmentation, and the command line arguments for the training script.
+We are going to use a pretrained ResNet50 model and fine-tune it on this dataset. Here is the code that goes into the
+
+Image Augmentation using PyTorch and Albumentations
+https://debuggercafe.com/image-augmentation-using-pytorch-and-albumentations/
+
+
+
+Horses Or Humans Dataset
+https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
+
+
+
+Kentucky Derby Race Tracking
+https://www.kaggle.com/datasets/sadhliroomyprime/kentucky-derby-tracking
+
+
+Horse Breeds
+https://www.kaggle.com/datasets/olgabelitskaya/horse-breeds
+
+ML For Beginners
+https://github.com/CodingMantras/ml-for-beginners/blob/master/precision-recall-accuracy-f1score/accuracy_of_ml_model.md
+
+Tech-interview-handbook
+https://github.com/CodingMantras/tech-interview-handbook
+
+Video Frames Extractor
+https://github.com/CodingMantras/video-frames-extractor
+
+Free-programming-books
+https://github.com/CodingMantras/free-programming-books/blob/main/books/free-programming-books-subjects.md
+
+
+Part 1.  Building a Real-Time Object Detection and Tracking App with YOLOv8 and Streamlit: Part 1
+https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-1-30c56f5eb956
+
+Part 2. Building a Real-Time Object Detection and Tracking App with YOLOv8 and Streamlit: Part 2
+https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-2-d1a273592e7e
+
+Part 3: Building a Real-Time Object Detection and Tracking App with YOLOv8 and Streamlit: Part 3
+https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-3-78090a08b848
+
+
+
+
+
+
+
+
+
+
