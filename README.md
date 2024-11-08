@@ -1,7 +1,7 @@
 # Real-time Horse Detection and Tracking with YOLOv8 and Streamlit
 
-Welcome to our project, which was completed by the excellent guys at horse jumping detection! In this fascinating project, we explore the worlds of artificial intelligence and computer vision to create a system that can automatically detect and evaluate horses and riders during jumping competitions in the British Sport organisation. In addition to being an entertaining equestrian sport, horse jumping is a discipline that calls for accuracy, technique, and safety.
-We have used the cutting-edge YOLO (You Only Look Once) algorithm in this project because of its accuracy and speed in real-time object recognition. We can detect several objects using the YOLO method in a single run through the neural network, which makes it perfect for applications that need real-time monitoring and immediate response, like horse jumping competitions and also streamlit for visualization.
+Welcome to my project, which was completed and done for the ministry of sport at horse jumping detection! In this fascinating project, i explore the worlds of artificial intelligence and computer vision to create a system that can automatically detect and evaluate horses and riders during jumping competitions in the British Sport organisation. In addition to being an entertaining equestrian sport, horse jumping is a discipline that calls for accuracy, technique, and safety.
+I have used the cutting-edge YOLO (You Only Look Once) algorithm in this project because of its accuracy and speed in real-time object recognition. I can detect several objects using the YOLO method in a single run through the neural network, which makes it perfect for applications that need real-time monitoring and immediate response, like horse jumping competitions and also streamlit for visualization.
 
 
 ## Requirements
